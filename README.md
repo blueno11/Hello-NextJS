@@ -21,7 +21,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
-![Alt text]([https://github.com/user-attachments/assets/8615434a-8e60-430a-81d8-5632eb5067de](https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/489004636_665106219797119_19219190803767277_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nPWNSujZp6cQ7kNvgHqbKLM&_nc_oc=Adnl3CQvDlHdSR1AhpaPm2lrXN9OJlxgwLMpIquwnzsIMRSMaLpmE2rufIEo7rTULCnQdMM29YicW-ygIKuVPSph&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=QOxOfXVLbzoX1Y87SXcspQ&oh=00_AYHEf4TTZAISQIVSokap4kJ8ZUyoL9e7ACvod0YjG9QxeA&oe=67F46F87))
+![Alt text]([https://github.com/user-attachments/assets/8615434a-8e60-430a-81d8-5632eb5067de](https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/489004636_665106219797119_19219190803767277_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nPWNSujZp6cQ7kNvgHqbKLM&_nc_oc=Adnl3CQvDlHdSR1AhpaPm2lrXN9OJlxgwLMpIquwnzsIMRSMaLpmE2rufIEo7rTULCnQdMM29YicW-ygIKuVPSph&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=QOxOfXVLbzoX1Y87SXcspQ&oh=00_AYHEf4TTZAISQIVSokap4kJ8ZUyoL9e7ACvod0YjG9QxeA&oe=67F46F87)
 
 To learn more about Next.js, take a look at the following resources:
 
