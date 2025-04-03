@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+![Uploading Screenshot 2025-04-03 160311.png…]()
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
