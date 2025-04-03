@@ -12,7 +12,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
-![Screenshot 2025-04-03 160311](https://github.com/user-attachments/assets/cc77e30f-7565-4307-9649-1e021979ef29)
+![image](https://github.com/user-attachments/assets/8615434a-8e60-430a-81d8-5632eb5067de)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
