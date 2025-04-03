@@ -12,7 +12,6 @@ yarn dev
 pnpm dev
 # or
 bun dev
-![image](https://github.com/user-attachments/assets/8615434a-8e60-430a-81d8-5632eb5067de)
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -22,6 +21,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
+![image](https://github.com/user-attachments/assets/8615434a-8e60-430a-81d8-5632eb5067de)
 
 To learn more about Next.js, take a look at the following resources:
 
